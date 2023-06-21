@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-commerce Food Websites](https://drive.google.com/file/d/18raf4L3D9I4pR5M_g2TAqVf2-tT3wbsd/view?usp=drive_link)
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,JQUERY,REACTJS**
+- 🌱 I’m currently learning **Something Cool :)**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rupakdudhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupakdudhe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rupak-dudhe-612b94a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rupak-dudhe-612b94a4/" height="30" width="40" /></a>
 <a href="https://instagram.com/_iamrupak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_iamrupak" height="30" width="40" /></a>
 </p>
 
@@ -29,4 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupak148&show_icons=true&locale=en" alt="rupak148" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupak148&" alt="rupak148" /></p>
+                                                                                   <h1>Thank You </h1>
 
